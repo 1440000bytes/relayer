@@ -1,4 +1,4 @@
-module github.com/fiatjaf/relayer/v2
+module github.com/1440000bytes/relayer/v2
 
 go 1.21.0
 
